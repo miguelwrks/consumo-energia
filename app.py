@@ -24,3 +24,4 @@ print ('Aparelho --> ',aparelho)
 print('O consumo foi de -->',consumo, 'kWh/mes')
 print('O custo estimado e de --->', custo_estimado,'R$')
 print('Programa desenvolvido por ---> Miguel Silva Gonçalves')
+
