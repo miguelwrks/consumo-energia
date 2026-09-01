@@ -24,7 +24,3 @@ print ('Aparelho --> ',aparelho)
 print('O consumo foi de -->',consumo, 'kWh/mes')
 print('O custo estimado e de --->', custo_estimado,'R$')
 print('Programa desenvolvido por ---> Miguel Silva Gonçalves')
-
-#calcular consumo mensal em kWh
-# consumo sendo: potencia multiplicado por horas ao dia vezes 30 (um mes) e dps tudo isso dividido por mil (para dar o k do kWh [quilo watt])
-#add custo estimado por valor fixo (0,75 por kwh), ai nisso eh so multiplicar esse 0,75 pelo consumo mensal e ai sai o valor
