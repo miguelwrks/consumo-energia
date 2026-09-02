@@ -2,7 +2,6 @@
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Energia Badge](https://img.shields.io/badge/Energia-FFD700?style=for-the-badge&logo=lightning&logoColor=black)
 ![License Badge](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
 
 ---
