@@ -20,8 +20,9 @@ custo_estimado = (consumo)*0.75
 
 
 clear()
-print ('Aparelho --> ',aparelho)
-print('O consumo foi de -->',consumo, 'kWh/mes')
-print('O custo estimado e de --->', custo_estimado,'R$')
-print('Programa desenvolvido por ---> Miguel Silva Gonçalves')
-
+print('======================================================')
+print('Aparelho: ',aparelho)
+print('O consumo foi de:',consumo, 'kWh/mes')
+print('O custo estimado é de:', custo_estimado,'R$')
+print('Programa desenvolvido por: Miguel Silva Gonçalves')
+print('======================================================')
