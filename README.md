@@ -18,7 +18,7 @@ O **Programa Consumo de Energia** é uma ferramenta desenvolvida em **Python** p
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** [Python 3](https://www.python.org/)[cite: 1]
+- **Linguagem:** [Python 3](https://www.python.org/
 - **Biblioteca Nativa:** `os` (para limpeza do terminal de forma simples e multiplataforma)
 
 ---
